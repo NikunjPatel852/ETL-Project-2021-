@@ -1,6 +1,7 @@
 # ETL-Project-2021-
 Data Bootcamp ETL Project 2021 
 By Nikunj Patel
+
 The aim of this explore, transform and load (ETL) project is to provide a database for data analysts to use at Sportsbet. Allowing the team to explore historical data form past Olympic games, population and GDP data that can be used to analysis trends. The following are example
 •	Can a predication of a countries medal count be made using the following factors?
 1.	GDP per capita 
@@ -9,6 +10,7 @@ The aim of this explore, transform and load (ETL) project is to provide a databa
 4.	Home Advantage 
 •	Top performing countries with most medals won?
 •	Are certain countries better at certain sports? 
+
 Data Source: 
 The data used in this ETL project can be found on Kaggle.com at the following links 
 •	120 years of Olympic history: athletes and results 
